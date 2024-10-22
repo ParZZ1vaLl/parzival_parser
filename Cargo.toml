@@ -1,0 +1,9 @@
+[package]
+name = "parzival_parser"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "my first parser"
+
+[dependencies]
+peg = "0.8.4"
